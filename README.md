@@ -2,7 +2,8 @@
 
 A modern, interactive chatbot flow editor built with React and React Flow. This application allows users to create, edit, and manage chatbot conversation flows through an intuitive drag-and-drop interface.
 
-![Chatbot Flow Builder](https://via.placeholder.com/800x400/f0f9ff/1e40af?text=Visual+Chatbot+Flow+Builder)
+## Live 
+https://chatbot-flow-builder-dusky.vercel.app/
 
 ## 🚀 Features
 
@@ -289,9 +290,7 @@ The application implements sophisticated validation to ensure flow integrity:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
